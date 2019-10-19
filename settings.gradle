@@ -1,0 +1,2 @@
+include ':app', ':lifecycleactivity', ':multiactivity', ':multiactivity2'
+rootProject.name='Pichienko.lablesson2'
